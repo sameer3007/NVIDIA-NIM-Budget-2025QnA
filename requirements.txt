@@ -1,5 +1,5 @@
-# openai
-# python-dotenv
+openai
+python-dotenv
 langchain_nvidia_ai_endpoints
 langchain_community
 faiss-cpu
